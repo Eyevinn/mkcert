@@ -1,4 +1,4 @@
-module filippo.io/mkcert
+module Eyevinn/mkcert
 
 go 1.18
 
